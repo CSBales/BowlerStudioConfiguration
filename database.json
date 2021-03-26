@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
+      "WPIRoboticsEngineering/LabCodeRepoSetup",
+      "1616780950651"
+    ]
+  },
   "studio-open-web": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
