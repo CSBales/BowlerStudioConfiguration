@@ -11,10 +11,6 @@
       "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
       "LabCodeRepoSetupMain.groovy"
     ],
-    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:LabCodeRepoSetup/teamAssignments2002.json": [
-      "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
-      "LabCodeRepoSetup/teamAssignments2002.json"
-    ],
     "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git:PushOutUpdate.groovy": [
       "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git",
       "PushOutUpdate.groovy"
